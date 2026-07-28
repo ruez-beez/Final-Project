@@ -90,6 +90,11 @@ nav ul{
     justify-content: space-evenly;
     margin-right: auto;
     margin-left: auto;
+    padding: 2px;
+    background-color: #D9B252;
+    border-width: 7px;
+    border-style: double;
+    border-radius: 100px;
 }
 
 nav a{
@@ -106,7 +111,7 @@ nav img:hover{
     border-color: #D9B252;
     border-width: 2px;
     border-style: solid;
-    /* opacity: 0.5; */
+    
 }
 main{
     display: grid;
