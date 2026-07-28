@@ -104,11 +104,14 @@ nav a{
 }
 
 nav img{
+    border-color: #D9B252;
+    border-width: 2px;
+    border-style: solid;
     max-width: 60px;
     border-radius: 100%;
 }
 nav img:hover{
-    border-color: #D9B252;
+    border-color: #0D1323;
     border-width: 2px;
     border-style: solid;
     
