@@ -221,12 +221,57 @@ main{
     margin-bottom: auto;
 }
 
+/* FAQ section */
+
 #faq{
     grid-row-start: 3;
     grid-row-end: 4;
     grid-column-start: 2;
     grid-column-end: 4;
-    /* display: flexbox; */
+    padding: 1em;
+}
+
+
+.collapsible {
+    color: #8E403B;
+    background-color: #eee8d3;
+    margin: auto;
+    border-radius: 20px;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+    box-shadow: 2px 2px 5px #121A24;
+    -moz-box-shadow: 2px 2px 5px  #121A24;
+    -webkit-box-shadow: 2px 2px 5px #121A24;
+}
+
+.question{
+    padding: ;
+    margin-bottom: 1em;
+}
+
+.active, .collapsible:hover {
+  background-color: #d9d1ba;
+}
+
+.content {
+    border-radius: 20px;
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #d9d1ba;
+}
+/* 
+#faq{
+    grid-row-start: 3;
+    grid-row-end: 4;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    display: flexbox;
 }
 
 .item{
@@ -238,7 +283,7 @@ main{
     box-shadow: 2px 2px 5px #121A24;
     -moz-box-shadow: 2px 2px 5px  #121A24;
     -webkit-box-shadow: 2px 2px 5px #121A24;
-    /* max-height: 100px; */
+    max-height: 100px;
     vertical-align: middle;
 }
 
@@ -254,7 +299,8 @@ main{
 .answer{
     max-height: 0px;
     overflow: hidden;
-}
+} */
+
 #news{
     display: flex;
     grid-row-start:4;
