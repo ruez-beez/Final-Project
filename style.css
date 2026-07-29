@@ -123,7 +123,7 @@ main{
     grid-template-columns: repeat(3, 1fr);
 }
 
-.info, #time, .swiper-container, .article, #faq, .slider, #planetInfo{
+.info, #time, .slider, .article, #faq, .slideshow-container, #planetInfo{
     background-color: #eee8d3;
     border-radius: 25px;
     border-width: 7px;
