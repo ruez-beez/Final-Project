@@ -284,42 +284,8 @@ main{
   overflow: hidden;
   background-color: #d9d1ba;
 }
-/* 
-#faq{
-    grid-row-start: 3;
-    grid-row-end: 4;
-    grid-column-start: 2;
-    grid-column-end: 4;
-    display: flexbox;
-}
 
-.item{
-    position: relative;
-    padding-left: 1em;
-    padding-top: 0.2em;
-    margin: 1em;
-    border-radius: 20px;
-    box-shadow: 2px 2px 5px #121A24;
-    -moz-box-shadow: 2px 2px 5px  #121A24;
-    -webkit-box-shadow: 2px 2px 5px #121A24;
-    max-height: 100px;
-    vertical-align: middle;
-}
-
-
-.question h2,.answer p{
-    text-align: left;
-    
-}
-
-.question{
-    margin: none;
-}
-.answer{
-    max-height: 0px;
-    overflow: hidden;
-} */
-
+/* news section */
 #news{
     display: flex;
     grid-row-start:4;
@@ -332,11 +298,7 @@ main{
 
 .article{
     max-width: 300px;
-    /* margin: 1em; */
-    padding:1em;
-    /* margin-left: auto;
-    margin-right: auto; */
-  
+    padding:1em;  
 }
 
 .article img{
@@ -358,7 +320,7 @@ main{
 }
 
 
-/* Hide the images by default */
+
 .mySlides {
   display: none; 
 
@@ -371,7 +333,6 @@ main{
 }
 
 
-/* Caption text */
 .text p, .text h2{
   padding: 8px 12px;
   width: 100%;
@@ -379,7 +340,6 @@ main{
 }
 
 
-/* Fading animation */
 .fade {
   animation-name: fade;
   animation-duration: 1.5s;
@@ -407,24 +367,28 @@ footer p{
     color: #eee8d3;
 }
 
+/* mobile view */
+
 @media only screen and (max-width: 700px){
     main{
         display:block;
     }
 
-.slideshow-container{
-    display: flex;
-}
-    /* .mySlides{
-        display: grid;
-        grid-template-rows: repeat(2, 1fr);
-    } */
-    .mySlides img{
-        /* grid-row-start: 1;
-        grid-row-end: 2;
-        display: block;
-        height: auto; */
+    .slideshow-container{
+        display: flex;
+    }
+    
+    #desc{
+        display: inline-block;
+    }
+    
 
+    .info, #time, .slider, .article, #faq, .slideshow-container, #planetInfo{
+        margin-bottom: 3em;
+    }
+
+    
+    .mySlides img{
         float: none;
     }
     .text{
