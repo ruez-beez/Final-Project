@@ -397,10 +397,14 @@ main{
   to {opacity: 1}
 }
 
-
+/* footer */
 footer{
     background-color: #121f47;
+    padding: 1em;
+    padding-left: 5%;
+    padding-right: 5%;
 }
+
 
 footer p{
     padding-top: 1em;
@@ -411,6 +415,16 @@ footer p{
     margin-left: auto;
     margin-right: auto;
     min-width: 300px;
+    color: #eee8d3;
+}
+
+.footerInfo{
+    margin-left: auto;
+    text-align: center;
+    display: flex;
+}
+
+.footerInfo li{
     color: #eee8d3;
 }
 
@@ -442,6 +456,10 @@ footer p{
         grid-row-start: 3;
         grid-row-end: 4;
         width: 100%;
+    }
+
+    .footerInfo{
+        display: block;
     }
 
 }
