@@ -141,6 +141,7 @@ nav ul{
     justify-content: space-evenly;
     margin-right: auto;
     margin-left: auto;
+    margin-bottom: 3em;
     padding: 2px;
     background-color: #D9B252;
     border-width: 7px;
@@ -180,6 +181,7 @@ main{
     border-width: 7px;
     border-style: double;
     border-color: #0D1323;
+    margin-bottom: 3em;
     /* box-shadow: 5px 5px 5px #5B99BD; */
     /* -moz-box-shadow: 5px 5px #5B99BD;
     -webkit-box-shadow: 5px 5px #5B99BD; */
