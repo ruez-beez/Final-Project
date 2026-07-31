@@ -387,6 +387,8 @@ main{
 }
 
 .mySlides img{
+    width: 100%;
+    height:auto;
   max-width: 300px;
   float: left;
   border-radius: 100%;
