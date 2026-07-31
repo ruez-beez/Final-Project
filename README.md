@@ -42,16 +42,13 @@ My main revisions were to improve the user experience by fixing the links and cr
 - JavaScript
 - GitHub Pages
 ## Credits
-Javascript tutorials
 - Collapsible - "How TO - Collapse" - W3schools
 - Planet Slider - "How to Build a Custom JavaScript Slider from Scratch" - Bytescrum
 - Auto Slideshow - "How TO - Slideshow" - W3schools
-HTML/CSS
 - Media Queries - W3schools
 - Paragraph Font - Montserrat
 - Header Fonts - Termina
 - Icons - Google Font Icons
-Research references
 - Planet Information Copy and Pictures - NASA
 
 ## Future Improvements
