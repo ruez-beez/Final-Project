@@ -387,6 +387,7 @@ main{
 }
 
 .mySlides img{
+    padding:1em;
     width: 100%;
     height:auto;
   max-width: 300px;
