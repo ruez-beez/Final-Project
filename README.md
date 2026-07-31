@@ -3,10 +3,10 @@
 ## Responsive Website
 
 ## Project Description
-Describe the final experience.
+The landing page is the homepage. Here a user should be able to view various sections that contain different information. The user should be able to navigate throughout the homepage and interact with the buttons. Depending on which section the user interacts there will be a different result. From the homepage the user should be able to go to their planet page of choice. Each planet page contains information the specified planet. The user will be able to return back to the homepage from this page.  
 
 ## Theme Interpretation
-I took a literal interpretation of space. Making my website themed after the solar system. 
+I took an astronomy interpretation of space. Making my website themed after the solar system. 
 
 ## Intended User or Player
 My intended audience is younger individuals around ages 10-13 years with an interest in space history, astronomy, and learning. There is no previous knowledge of these topics required to use the website. There is an expectation that the user base has the ability to read and retain information.
