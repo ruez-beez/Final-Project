@@ -43,16 +43,16 @@ My main revisions were to improve the user experience by fixing the links and cr
 - GitHub Pages
 ## Credits
 Javascript tutorials
--Collapsible - "How TO - Collapse" - W3schools
--Planet Slider - "How to Build a Custom JavaScript Slider from Scratch" - Bytescrum
--Auto Slideshow - "How TO - Slideshow" - W3schools
+- Collapsible - "How TO - Collapse" - W3schools
+- Planet Slider - "How to Build a Custom JavaScript Slider from Scratch" - Bytescrum
+- Auto Slideshow - "How TO - Slideshow" - W3schools
 HTML/CSS
--Media Queries - W3schools
--Paragraph Font - Montserrat
--Header Fonts - Termina
--Icons - Google Font Icons
+- Media Queries - W3schools
+- Paragraph Font - Montserrat
+- Header Fonts - Termina
+- Icons - Google Font Icons
 Research references
--Planet Information Copy and Pictures - NASA
+- Planet Information Copy and Pictures - NASA
 
 ## Future Improvements
 I would like to improve the margins, since some of the sections aren’t fully aligned. Another improvement that I would like to make is regarding the planet's pages images. An improvement would be to add smaller images that correspond with media queries measuring the screen width. 
