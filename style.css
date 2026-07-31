@@ -224,6 +224,10 @@ main{
 
 /* planet slider */
 
+.planetImage{
+    max-width: 800px;
+        }
+
 .slider {
     width: 100%;
 
