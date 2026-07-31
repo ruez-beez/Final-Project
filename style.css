@@ -418,6 +418,10 @@ footer p{
     color: #eee8d3;
 }
 
+footer a{
+    color: #D9B252; 
+}
+
 .footerInfo{
     margin-left: auto;
     text-align: center;
