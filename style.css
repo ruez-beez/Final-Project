@@ -32,6 +32,17 @@ h3{
     font-size: 1rem;
     font-size: clamp(1rem, 0.84rem + 0.8vw, 1.8rem);
 }
+
+h5{
+    color: #D9B252;
+    text-align: center;
+    font-family: "termina", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 1rem;
+    font-size: clamp(1rem, 0.95rem + 0.25vw, 1.25rem);
+}
+
 body{
     background-color: #0D1323;
     margin:0px;
