@@ -317,7 +317,7 @@ main{
 
 
 .question{
-    margin-bottom: 1em;
+    margin: 1em;
 }
 
 .active, .collapsible:hover {
