@@ -51,6 +51,14 @@ My main revisions were to improve the user experience by fixing the links and cr
 - Header Fonts - Termina
 - Icons - Google Font Icons
 - Planet Information Copy and Pictures - NASA
+- Timeline - NASA
+- Exoplanets Information - NASA
+- Kuiper Belt Information - NASA
+- Pluto Information - NASA
+- Katherine Johnson - NASA
+- Edwin Hubble - NASA
+- Sally Ride - NASA
+
 
 ## Future Improvements
 I would like to improve the margins, since some of the sections aren’t fully aligned. Another improvement that I would like to make is regarding the planet's pages images. An improvement would be to add smaller images that correspond with media queries measuring the screen width. 
